@@ -1,4 +1,4 @@
-# Liquidation Availability & Operational Integrity 
+# Lending · The attack that steals nothing, it just jams the machine
 
 ## Category 1: Input Validation for Multi-Step/Batch Operations
 

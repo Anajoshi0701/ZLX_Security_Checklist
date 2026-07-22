@@ -1,4 +1,4 @@
-# Governance Parameters & Logic
+# Lending · Whoever controls the vote controls the vault
 
 ## Category 1: Governance Snapshot & Voting Integrity
 
